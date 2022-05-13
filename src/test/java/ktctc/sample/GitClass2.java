@@ -11,11 +11,17 @@ public class GitClass2 {
 	public void smapleMethodByGanesh()
 	{
 		System.out.println("Method by Ganesh");
-		System.out.println("code updated sucessfully"); 
+
+		System.out.println("Second line added by Ganesh");
+
 	}
 
 	public void sampleMethodAddedBySumit() {
 		System.out.println("Hello everyone");
+	}
+	public void methodForStash()
+	{
+		System.out.println("method For Stash");
 	}
 
 
