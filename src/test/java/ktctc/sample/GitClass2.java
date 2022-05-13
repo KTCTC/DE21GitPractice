@@ -13,4 +13,9 @@ public class GitClass2 {
 		System.out.println("Method by Ganesh");
 	}
 
+	public void sampleMethodAddedBySumit() {
+		System.out.println("Hello everyone");
+	}
+
+
 }
