@@ -7,5 +7,10 @@ public class GitClass2 {
 		System.out.println("Hello code updated by ganesh");
 		System.out.println("Something updated by Dnyaneshwar");
 	}
+	
+	public void smapleMethodByGanesh()
+	{
+		System.out.println("Method by Ganesh");
+	}
 
 }
